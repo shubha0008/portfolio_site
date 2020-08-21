@@ -37,6 +37,7 @@ class Resume extends Component {
               endYear={2010}
               schoolName="Higher Education"
               schoolDescription="D.A.V. Public School , Hazaribagh"
+              marks="9.8/10"
                />
 
                <Education
@@ -44,6 +45,7 @@ class Resume extends Component {
                  endYear={2012}
                  schoolName="Higher/Senior Secondary Education"
                  schoolDescription="D.A.V. Public School , Hazaribagh"
+                 marks="87%"
                   />
 
               <Education
@@ -51,6 +53,7 @@ class Resume extends Component {
                  endYear={2017}
                  schoolName="Graduation"
                  schoolDescription="Silicon Institute of Technology , Bhubaneswar"
+                 marks="8.07/10"
                   />
                 <hr style={{borderTop: '3px solid #e22947'}} />
 

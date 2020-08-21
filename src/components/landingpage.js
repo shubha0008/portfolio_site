@@ -10,8 +10,12 @@ class Landing extends Component {
           <Cell col={12}>
             <img
               //src="https://www.shareicon.net/download/2015/09/18/103157_man_512x512.png"
+<<<<<<< HEAD
             // src="/IMG_20200101_185645.jpg"
             src="https://i.ibb.co/f89xPHM/IMG-20200101-185645.jpg"
+=======
+             src="https://i.ibb.co/f89xPHM/IMG-20200101-185645.jpg"
+>>>>>>> 1a44d9a76275e676f4a4a3ac0fee081aeffce547
               alt="avatar"
               className="avatar-img"
               />
